@@ -3,7 +3,7 @@ let globeScale; // Scale factor
 
 let mic; //Mic
 let vol = 1; //Volume
-let normVol; //Normalize vol
+let normVol = 1; //Normalize vol
 let volSense = 100; //Volume sensivity
 let sliderStep = 10; //Slider step size
 let volSenseSlider; //Volume sensitivty slider
